@@ -1,4 +1,4 @@
-file1 = open('Day 1/part 1/input.txt', 'r')
+file1 = open('Day 1/input.txt', 'r')
 lines = file1.readlines()
 file1.close()
 current = 0

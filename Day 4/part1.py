@@ -1,4 +1,4 @@
-file1 = open('Day 4/part 1/input.txt', 'r')
+file1 = open('Day 4/input.txt', 'r')
 lines = file1.readlines()
 file1.close()
 pairs = 0

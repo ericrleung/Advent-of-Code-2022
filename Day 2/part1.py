@@ -1,5 +1,5 @@
 points = {'A': 1, 'B': 2,'C': 3, 'X': 1,'Y': 2, 'Z': 3}
-file1 = open('Day 2/part 1/input.txt', 'r')
+file1 = open('Day 2/input.txt', 'r')
 lines = file1.readlines()
 file1.close()
 score = 0

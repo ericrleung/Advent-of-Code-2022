@@ -1,6 +1,6 @@
 points = {'X': 0,'Y': 3, 'Z': 6}
 #1 rock, 2paper, 3 scissors
-file1 = open('Day 2/part 1/input.txt', 'r')
+file1 = open('Day 2/input.txt', 'r')
 lines = file1.readlines()
 file1.close()
 score = 0
